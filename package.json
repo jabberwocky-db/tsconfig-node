@@ -1,6 +1,6 @@
 {
     "name": "@jabberwocky-db/tsconfig-node",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": "MIT",
     "sideEffects": false,
     "main": "index.json",
@@ -8,8 +8,5 @@
     "dependencies": {
         "@jabberwocky-db/tsconfig": "^1.0.0",
         "@types/node": "^17.0.0"
-    },
-    "peerDependencies": {
-        "typescript": "^4.6.0"
     }
 }
