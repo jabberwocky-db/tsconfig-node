@@ -8,5 +8,8 @@
     "dependencies": {
         "@jabberwocky-db/tsconfig": "^1.0.0",
         "@types/node": "^17.0.0"
+    },
+    "peerDependencies": {
+        "typescript": "^4.6.0"
     }
 }
