@@ -1,6 +1,6 @@
 {
     "name": "@jabberwocky-db/tsconfig-node",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "license": "MIT",
     "sideEffects": false,
     "main": "index.json",
