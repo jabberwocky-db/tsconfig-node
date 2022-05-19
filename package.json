@@ -6,7 +6,7 @@
     "main": "index.json",
     "files": [],
     "dependencies": {
-        "@jabberwocky-db/tsconfig": "^1.0.0",
+        "@jabberwocky-db/tsconfig": "^1.0.7",
         "@types/node": "^17.0.0"
     }
 }
