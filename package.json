@@ -16,5 +16,30 @@
     },
     "scripts": {
         "format": "yarn prettier . --write"
-    }
+    },
+    "packageManager": "yarn@3.2.1",
+    "repository": "github:@jabberwocky-db/tsconfig-node",
+    "homepage": "https://github.com/jabberwocky-db/tsconfig-node#readme",
+    "keywords": [
+        "typescript",
+        "tsconfig",
+        "node",
+        "tsconfig-node",
+        "jabberwocky",
+        "jabberwocky-db"
+    ],
+    "author": {
+        "name": "Jabberwocky DB",
+        "email": "zach@jwocky.com"
+    },
+    "contributors": [
+        {
+            "name": "Zachary Raineri",
+            "email": "zach@jwocky.com"
+        }
+    ],
+    "bugs": {
+        "url": "https://github.com/jabberwocky-db/tsconfig-node/issues",
+        "email": "zach@jwocky.com"
+    },
 }
